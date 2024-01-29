@@ -1,0 +1,64 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "b7808007b56c55f55d87c54ad8fa96d703c7a58474cd75a7681dcf9bfeb67b0f"
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "aa1cebfcacb1eb5019bd5ae27591a4201732afd49b8ac46f8fe2dfd059dc4b75"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "83a91f8d75114989ce95b13302fdf916c400514e8b43c32e8aafc3e17b2f5e03"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "dc2a58b44595ac5426543dc3c1ad1aad4c0e87a48eabee8978b000d505570846"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7677bda53578ddd361ed5f88bf3eb7730ec4e3f6b2c91bc348e179307e2f37ef"
+
+[[files]]
+file = "resourcepacks/modstranslationpack.pw.toml"
+hash = "63395e0c6c335496f5a07d3c4a0b821ec65d788a467456e4117811c22823be01"
+metafile = true

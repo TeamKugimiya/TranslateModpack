@@ -1,0 +1,21 @@
+version:3465
+lang:zh_tw
+
+autoJump:false
+autoSuggestions:false
+onboardAccessibility:false
+tutorialStep:none
+
+resourcePacks:["fabric", "file/ModsTranslationPack-1.20.x.zip"]
+incompatibleResourcePacks:[]
+
+soundCategory_master:0.5086092715231788
+soundCategory_music:0.0
+soundCategory_record:0.508450704225352
+soundCategory_weather:0.3028169014084507
+soundCategory_block:0.5
+soundCategory_hostile:0.5056338028169014
+soundCategory_neutral:0.5056338028169015
+soundCategory_player:0.5028169014084507
+soundCategory_ambient:0.5
+soundCategory_voice:0.5056338028169014

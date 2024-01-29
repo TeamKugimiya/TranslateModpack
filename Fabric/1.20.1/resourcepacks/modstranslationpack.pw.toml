@@ -1,0 +1,13 @@
+name = "ModsTranslationPack"
+filename = "ModsTranslationPack-1.20.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cF5VXmkW/versions/OQjYe8LO/ModsTranslationPack-1.20.x.zip"
+hash-format = "sha1"
+hash = "d35a7c8c57f50b03d45121f9fce259b0602c4956"
+
+[update]
+[update.modrinth]
+mod-id = "cF5VXmkW"
+version = "OQjYe8LO"
